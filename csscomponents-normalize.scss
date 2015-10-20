@@ -1,0 +1,25 @@
+html,
+body {
+  margin:0;
+}
+
+a {
+	background-color:transparent;
+
+	a:active,
+	a:hover,
+	img {
+		outline:0;
+		border:none;
+	}	
+}
+
+hr {
+	box-sizing:content-box;
+	-moz-box-sizing:content-box;
+	height:0;
+}
+
+textarea {
+	overflow:auto;
+}

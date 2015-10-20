@@ -1,0 +1,14 @@
+{
+  "name": "csscomponents-normalize",
+  "version": "0.0.1",
+  "authors": [
+    "Joel Dawson <joel@theprojectfactory.com>"
+  ],
+  "description": "Default normalization css",
+  "main": "csscomponents-normalize.scss",
+  "moduleType": [
+    "sass"
+  ],
+  "ignore": [],
+  "dependencies": {}
+}
